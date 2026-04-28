@@ -40,6 +40,17 @@ AI-driven change management automation platform leveraging Claude for workflow d
 ---
 
 ## 🤝 Contributions
+## 🤖 AI Capabilities
 
+This project integrates Claude AI to:
+
+- Evaluate change requests  
+- Provide approval/rejection decisions  
+- Generate reasoning for governance  
+
+Example:
+Input: "Deploy database schema change in production"
+
+Output: "REJECT – Requires testing in staging environment first."
 Open to collaboration and improvements.# change-management-automation
 AI-driven change management automation platform leveraging Claude for workflow decisions, approvals, and documentation.
